@@ -7,6 +7,7 @@ Age
 Profile photo (use a URL)
 Bio/description
 Email
+
 Add buttons to:
 Toggle between two different users
 Increment age by 1
